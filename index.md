@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -19,5 +19,4 @@
 	<li>to create my favorite design.</li>
     
     </il>
-  </body>
-</html> 
+  
