@@ -11,7 +11,7 @@
   <body>
     <h1>"HELLO WORLD ANYWAY"</h1>
     <p>This is my first step in a huge world of web. A small step for a man... And yet a neglegible step for the humanity</p>
-    <h2>The next steps to be done:
+    <h2>The next steps to be done:</h2>
 	
     <il>
     	<li>to learn how to move other sources here;</li>
