@@ -1,1 +1,6 @@
-header {backgroundcolor="magenta"}
+html {
+  font-family: 'Rubik', sans-serif;
+}
+.header {
+  background-color: #e7c5b3;
+}
