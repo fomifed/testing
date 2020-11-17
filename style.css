@@ -3,4 +3,6 @@ html {
 }
 .header {
   background-color: #e7c5b3;
+  align-content: center;
+  height: 40px;
 }
