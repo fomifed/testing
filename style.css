@@ -3,6 +3,6 @@ html {
 }
 .header {
   background-color: #e7c5b3;
-  align-content: center;
+  text-align: auto;
   height: 40px;
 }
