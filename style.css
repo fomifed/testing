@@ -6,3 +6,6 @@ html {
   text-align: auto;
   height: 40px;
 }
+.header:hover {
+  text-color: #fabaca;
+}
